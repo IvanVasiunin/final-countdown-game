@@ -1,16 +1,12 @@
-export const App = () => {
+import Player from './Player.jsx';
+
+function App() {
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-      React homework template
-    </div>
+    <>
+      <Player />
+      <div id="challenges"></div>
+    </>
   );
-};
+}
+
+export default App;
