@@ -2,6 +2,10 @@
 
 Game where you have to stop the timer once you estimate that the time is (almost) up with 4 different levels of difficulty.
 
+<div align="center">
+    <img src="https://github.com/IvanVasiunin/final-countdown-game/blob/main/public/app_UI.jpg" alt="certificate" />
+</div>
+
 ## For developers
 
 This project was created with
