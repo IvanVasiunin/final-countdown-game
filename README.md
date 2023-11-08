@@ -6,6 +6,10 @@ Game where you have to stop the timer once you estimate that the time is (almost
     <img src="https://github.com/IvanVasiunin/final-countdown-game/blob/main/public/app_UI.jpg" alt="certificate" />
 </div>
 
+## Demo
+
+<a href="https://ivanvasiunin.github.io/final-countdown-game/">Check demo here</a>
+
 ## For developers
 
 This project was created with
